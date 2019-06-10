@@ -23,7 +23,7 @@ sudo apt install libopencv-dev
 Output images written in output-images/ directory after execution
 ```
 git clone https://github.com/sawyermade/image_processing.git
-cd image_processing/hw3
+cd image_processing/hw4
 make
 ./hw4 parameters.txt
 ```
