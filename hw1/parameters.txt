@@ -1,0 +1,4 @@
+sample-images/baboon.pgm output-images/baboon_roi3.pgm 3 bin 128 50 50 100 100 1Dsmooth 5 200 200 200 150 2Dsmooth 5 350 350 100 100
+sample-images/baboon.pgm output-images/baboon_roi1.pgm 1 1Dsmooth 5 50 100 150 300
+sample-images/baboon.ppm output-images/baboon_bic.ppm 1 binc 200 0 255 255 0 0 512 512
+sample-images/trump.ppm output-images/trump_bic.ppm 1 binc 120 128 0 128 0 0 3204 4272
