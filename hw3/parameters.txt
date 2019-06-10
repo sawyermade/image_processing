@@ -1,0 +1,28 @@
+sample-images/floor.pgm output-images/floor_gradient-3.pgm 1 edgs -1 -99 0 0 375 500
+sample-images/floor.pgm output-images/floor_gradient-5.pgm 1 edgs5 -1 -99 0 0 375 500
+sample-images/floor.pgm output-images/floor_edges-3.pgm 1 edgs 20 -99 0 0 375 500
+sample-images/floor.pgm output-images/floor_edges-3-D60.pgm 1 edgs 20 60 0 0 375 500
+sample-images/snowb.pgm output-images/snowb_gradient-3.pgm 1 edgs -1 -99 0 0 480 720
+sample-images/snowb.pgm output-images/snowb_gradient-5.pgm 1 edgs5 -1 -99 0 0 480 720
+sample-images/snowb.pgm output-images/snowb_gradient-roi.pgm 1 edgs -1 -99 25 360 240 360
+sample-images/snowb.pgm output-images/snowb_edges-3.pgm 1 edgs 20 -99 0 0 480 720
+sample-images/snowb.pgm output-images/snowb_edges-3-D25.pgm 1 edgs 20 25 0 0 480 720
+sample-images/snowb.pgm output-images/snowb_edges-5-D25.pgm 1 edgs5 20 25 0 0 480 720
+sample-images/wheel.ppm output-images/wheel_gradient-I.ppm 1 edi -1 -99 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-I.ppm 1 edi 10 -99 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-RED.ppm 1 edc 20 -99 0 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-RED-D45.ppm 1 edc 20 45 0 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-GREEN.ppm 1 edc 20 -99 1 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-BLUE.ppm 1 edc 20 -99 2 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_gradient-RGB.ppm 1 edrgb -1 -99 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-RGB-D45.ppm 1 edrgb 20 45 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-I.ppm 1 edi 19 -99 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-I-D45.ppm 1 edi 19 45 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-H.ppm 1 edh 260 -99 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-S.ppm 1 eds 20 -99 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_edges-roi.ppm 3 edi 20 -99 0 0 150 150 edc 20 -99 0 0 150 150 150 edrgb 20 -99 150 0 150 150
+sample-images/trump.pgm output-images/trump_gradient-3.pgm 1 edgs -1 -99 0 0 3204 4272
+sample-images/trump.pgm output-images/trump_edges-5.pgm 1 edgs5 15 -99 0 0 3204 4272
+sample-images/putin.pgm output-images/putin_gradient-3.pgm 1 edgs -1 -99 0 0 600 800
+sample-images/putin.pgm output-images/putin_edges-3.pgm 1 edgs 20 -99 0 0 600 800
+sample-images/putin.pgm output-images/putin_edges-5.pgm 1 edgs5 20 -99 0 0 600 800

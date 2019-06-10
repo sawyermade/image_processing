@@ -19,6 +19,7 @@ input/file output/file #Processes ProcessName Parameters
 Output images written in output-images/ directory after execution
 ```
 git clone https://github.com/sawyermade/image_processing.git 
+cd image_processing/hw1
 make
 ./hw1 parameters.txt
 ```

@@ -1,0 +1,11 @@
+sample-images/pen.ppm output-images/pen_sca.ppm 1 sca 0 80 0 255 0 0 286 490
+sample-images/pen.ppm output-images/pen_rgb.ppm 3 scr 0 80 0 255 0 0 286 490 scg 0 80 0 255 0 0 286 490 scb 0 80 0 255 0 0 286 490
+sample-images/pen.ppm output-images/pen_si.ppm 1 si 0 80 0 255 0 0 286 490
+sample-images/baboon.ppm output-images/baboon_si.ppm 1 si 100 200 50 255 0 0 512 512
+sample-images/crayons.ppm output-images/crayons_si.ppm 1 si 5 100 0 255 0 0 480 600
+sample-images/berry.ppm output-images/berry_si.ppm 1 si 50 200 0 255 0 0 720 480
+sample-images/baboon.ppm output-images/baboon_ss.ppm 1 ss 0 80 0 255 0 0 512 512
+sample-images/pen.ppm output-images/pen_ss.ppm 2 si 0 80 0 255 0 0 286 490 ss 0 80 0 255 0 0 286 490
+sample-images/baboon.ppm output-images/baboon_sh.ppm 1 sh 0 120 0 360 0 0 512 512
+sample-images/baboon.pgm output-images/baboon_si-gs.pgm 1 si 100 200 50 255 0 0 512 512
+sample-images/baboon.pgm output-images/baboon_sgs.pgm 1 sgs 100 200 50 255 0 0 512 512

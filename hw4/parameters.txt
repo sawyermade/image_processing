@@ -1,0 +1,15 @@
+sample-images/snowb.pgm output-images/snowb_sobelgs-roi.pgm 2 sobelgs 45 360 0 360 240 sobelgs -1 0 240 360 240
+sample-images/snowb.pgm output-images/snowb_sobelgs.pgm 1 sobelgs 45 0 0 720 480
+sample-images/snowb.pgm output-images/snowb_sobelhsv.pgm 1 sobelhsv 45 0 0 720 480
+sample-images/snowb.pgm output-images/snowb_cannygs.pgm 1 cannygs 45 0 0 720 480
+sample-images/wheel.ppm output-images/wheel_sobelgs.ppm 1 sobelgs 45 0 0 300 300
+sample-images/wheel.ppm output-images/wheel_sobelhsv.ppm 1 sobelhsv 45 0 0 300 300
+sample-images/crayons.ppm output-images/crayons_histcv.ppm 1 histcv 0 0 600 480
+sample-images/pen.ppm output-images/pen_histcv.ppm 1 histcv 0 0 490 286
+sample-images/pen.ppm output-images/pen_histcvrgb.ppm 1 histcvrgb 0 0 490 286
+sample-images/baboon.ppm output-images/baboon_histcv.ppm 1 histcv 0 0 512 512
+sample-images/lena.pgm output-images/lena_histcv.pgm 1 histcv 0 0 512 512
+sample-images/slope.pgm output-images/slope_histcv.pgm 1 histcv 0 0 800 534
+sample-images/wheel.ppm output-images/wheel_cannygs.ppm 1 cannygs 45 0 0 300 300
+#sample-images/snowb.pgm output-images/snowb_gradient-3.pgm 1 edgs -1 -99 0 0 480 720
+#sample-images/snowb.pgm output-images/snowb_edges-3.pgm 1 edgs 20 -99 0 0 480 720
